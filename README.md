@@ -1,6 +1,6 @@
 ## Project Title
 
-[If you're visiting from Kaggle, you can find the most up to date version of the datasets here](https://github.com/andrewritchie05/tiger-millionaire/tree/master/data/kaggle_data)
+[If you're visiting from Kaggle, you can find the most up to date version of the datasets here.](https://github.com/andrewritchie05/tiger-millionaire/tree/master/data/kaggle_data)
 
 Tiger Millionaire - UFC Fight Predictor
 
