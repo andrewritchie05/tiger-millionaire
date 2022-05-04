@@ -24,12 +24,16 @@ Coming soon.
 
 ## Authors
 
-Matt Dabbert  
+This fork: Andrew Ritchie
+[On Linkedin](https://www.linkedin.com/in/andrewmritchie/
+[On Kaggle](https://www.kaggle.com/andrewritchie)
+
+Original: Matt Dabbert  
 [On Kaggle](https://www.kaggle.com/mdabbert)
 
 ## Version History
 
-2021-06-23:  Complete refactoring of the notebooks.
+2022-05-04: Added a header to urllib requests
 
 ## License
 
