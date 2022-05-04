@@ -25,7 +25,8 @@ Coming soon.
 ## Authors
 
 This fork: Andrew Ritchie
-[On Linkedin](https://www.linkedin.com/in/andrewmritchie/)
+
+[On LinkedIn](https://www.linkedin.com/in/andrewmritchie)
 [On Kaggle](https://www.kaggle.com/andrewritchie)
 
 Original: Matt Dabbert  
