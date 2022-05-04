@@ -27,6 +27,7 @@ Coming soon.
 This fork: Andrew Ritchie
 
 [On LinkedIn](https://www.linkedin.com/in/andrewmritchie)
+
 [On Kaggle](https://www.kaggle.com/andrewritchie)
 
 Original: Matt Dabbert  
